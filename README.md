@@ -3,6 +3,7 @@
 Quelques lignes pour vous dire que les commandes de Git c'est l'enfer...
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 J'ai ajouté un nouveau paragraphe et c'est cool !
 =======
 GitHub est une plateforme basée sur le cloud où vous pouvez stocker, partager et travailler avec d’autres pour écrire du code.
@@ -14,3 +15,8 @@ Le stockage de votre code dans un « référentiel » sur GitHub vous permet de 
     Permettre à d’autres personnes de réviser votre code et de faire des suggestions pour l’améliorer.
     Collaborer sur un projet partagé sans craindre que vos modifications aient un impact sur le travail de vos collaborateurs avant que vous ne soyez prêt à les intégrer.
 >>>>>>> nouvelle
+=======
+J'ai ajouté un nouveau paragraphe et c'est cool !
+
+Git sert à faire des projets colaboratif et permet de faire des "versions" de son travail
+>>>>>>> 0e02ac72cc2eee4ab9cfca47baf198eac8456bc7
